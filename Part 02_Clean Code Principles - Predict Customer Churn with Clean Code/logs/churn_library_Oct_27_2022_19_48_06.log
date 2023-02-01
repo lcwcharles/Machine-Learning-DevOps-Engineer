@@ -1,0 +1,28 @@
+root - INFO - Testing import_data: SUCCESS - Oct_27_2022_19_48_06
+root - INFO - Saving plot on ./images/eda/Churn.png - Oct_27_2022_19_48_07
+root - INFO - Saved plot in ./images/eda/Churn.png - Oct_27_2022_19_48_07
+root - INFO - Saving plot on ./images/eda/Customer_Age.png - Oct_27_2022_19_48_07
+root - INFO - Saved plot in ./images/eda/Customer_Age.png - Oct_27_2022_19_48_08
+root - INFO - Saving plot on ./images/eda/Normalize.png - Oct_27_2022_19_48_08
+root - INFO - Saved plot in ./images/eda/Normalize.png - Oct_27_2022_19_48_08
+root - INFO - Saving plot on ./images/eda/Total_Trans_Ct.png - Oct_27_2022_19_48_09
+root - INFO - Saved plot in ./images/eda/Total_Trans_Ct.png - Oct_27_2022_19_48_10
+root - INFO - Saving plot on ./images/eda/Heatmap.png - Oct_27_2022_19_48_10
+root - INFO - Saved plot in ./images/eda/Heatmap.png - Oct_27_2022_19_48_10
+root - INFO - SUCCESS: encoded successfully the feature - Gender - Oct_27_2022_19_48_10
+root - INFO - SUCCESS: encoded successfully the feature - Education_Level - Oct_27_2022_19_48_10
+root - INFO - SUCCESS: encoded successfully the feature - Marital_Status - Oct_27_2022_19_48_10
+root - INFO - SUCCESS: encoded successfully the feature - Income_Category - Oct_27_2022_19_48_10
+root - INFO - SUCCESS: encoded successfully the feature - Card_Category - Oct_27_2022_19_48_10
+root - INFO - SUCCESS: performed feature engineering - Oct_27_2022_19_48_10
+root - INFO - Saving plot on ./images/results/ROC_result.png - Oct_27_2022_19_55_03
+root - INFO - Saved plot on ./images/results/ROC_result.png - Oct_27_2022_19_55_03
+root - INFO - Saving plot on ./images/results/Random_Forest.png - Oct_27_2022_19_55_03
+root - INFO - Saved plot in ./images/results/Random_Forest.png - Oct_27_2022_19_55_04
+root - INFO - Saving plot on ./images/results/Logistic_Regression.png - Oct_27_2022_19_55_04
+root - INFO - Saved plot in ./images/results/Logistic_Regression.png - Oct_27_2022_19_55_04
+root - INFO - Saving plot on ./images/results/Feature_Importance.png - Oct_27_2022_19_55_05
+root - INFO - Saved plot in ./images/results/Feature_Importance.png - Oct_27_2022_19_55_05
+root - INFO - SUCCESS: images exist - Oct_27_2022_19_55_05
+root - INFO - SUCCESS: models exist - Oct_27_2022_19_55_05
+root - INFO - SUCCESS: all tests finished running - Oct_27_2022_19_55_05
