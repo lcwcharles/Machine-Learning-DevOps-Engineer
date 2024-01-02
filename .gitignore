@@ -1,0 +1,19 @@
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+.git/
+
+*.mhtml
+*.zip
+
+*.DS_Store
+artifacts/
+wandb/
+mlruns/
+outputs/
+random_forest_dir/
+multirun/
+
+/Part 05*/*.ipynb
+/Part 05*/logs/
+
