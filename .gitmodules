@@ -1,3 +1,7 @@
 [submodule "Part 03_Building A Reproducible Model Workflow - build-ml-pipeline-for-short-term-rental-prices"]
 	path = Part 03_Building A Reproducible Model Workflow - build-ml-pipeline-for-short-term-rental-prices
 	url = https://github.com/lcwcharles/build-ml-pipeline-for-short-term-rental-prices.git
+[submodule "Part 04_Deploying a Scalable ML Pipeline in Production - nd0821-c3-starter-code"]
+	path = Part 04_Deploying a Scalable ML Pipeline in Production - nd0821-c3-starter-code
+	url = https://github.com/lcwcharles/nd0821-c3-starter-code.git
+	branch = master
